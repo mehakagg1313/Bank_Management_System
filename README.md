@@ -1,25 +1,11 @@
 # Banking Management System
 Project in python with use of Tkinter GUI toolkit
-[//]
+
 ## Packages required
 1. Tkinter - Tkinter is the standard GUI library for Python.
 2. OS - The OS module in Python provides functions for interacting with the operating system.
 3. datetime - Datetime module supplies classes to work with date and time.
-## Installation
-###### Tkinter
-```
- We just need to install Python from www.python.org, and it comes along with Python.
-We do not need to install it separately.
-```
-###### Datetime
-```
-Datetime module comes build into Python, so there is no need to install it externally.
-```
-###### OS
-```
- We just need to install Python from www.python.org, and it comes along with Python.
-We do not need to install it separately.
-```
+
 ## Usage
 ```
 import os
@@ -27,27 +13,6 @@ from datetime import date
 import tkinter as tk 
 from tkinter import *
 ```
-## Execution flow (How to run the program?)
-###### Option 1
-```
-1. First extract the zip file.
-2. Navigate to the file mainProject.py
-3. Launch the code in any of the supporting IDE/code editors. (You must have python pre-installed in your system)
-4. Run the code.
-5. Now you are ready to interact with our python-based GUI program.
-```
-###### Option 2
-```
-1. First extract the zip file.
-2. Navigate to the path containing extracted folder.
-3. Here you can see one file named as mainProject.py
-4. Now click on the location bar of Windows Explorer.
-5. Then type cmd and press Enter key.
-6. The command prompt will be opened in the folder.
-7. Type "python mainProject.py" on command line (You must have python pre- installed in your system).
-8. Now you are ready to interact with our python-based GUI program.
-```
-[//]
 
 ## Features of program
 This is a GUI-based program. Once started running, it will prompt users to ask whose role they want to play. According to the selection, the program will ask for credentials. Once the credentials are matched, the program will unlock the respective functions
@@ -123,5 +88,5 @@ functionalities. If they don’t match or entered account number doesn't exist t
 
 ## Contributors
 1. 03401172020 - Mehak Aggarwal
-2. 05101172020 - princy 
+2. 05101172020 - Princy Singhal
 
