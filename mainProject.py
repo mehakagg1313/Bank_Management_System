@@ -270,7 +270,7 @@ class welcomeScreen:
         window.minsize(120, 1)
         window.maxsize(1370, 749)
         window.resizable(0, 0)
-        window.title("Welcome to KEY BANK")
+        window.title("Welcome to FINURO BANK")
         p1 = PhotoImage(file='./images/bank1.png')
         window.iconphoto(True, p1)
         window.configure(background="#023047")
