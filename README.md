@@ -7,16 +7,16 @@ Project in python with use of Tkinter GUI toolkit
 3. datetime - Datetime module supplies classes to work with date and time.
 
 ## Usage
-```
+
 import os
 from datetime import date
 import tkinter as tk 
 from tkinter import *
-```
+
 
 ## Features of program
 This is a GUI-based program. Once started running, it will prompt users to ask whose role they want to play. According to the selection, the program will ask for credentials. Once the credentials are matched, the program will unlock the respective functions
-```
+
 1) Employee
 >> Admin Id and password
 If id and password match then banker will unlock his/her
@@ -84,7 +84,7 @@ functionalities. If they don’t match or entered account number doesn't exist t
                     - On pressing this button, the total balance of customer
                  6. Exit
                     - Takes back to customer login screen
-```
+
 
 ## Contributors
 1. 03401172020 - Mehak Aggarwal
