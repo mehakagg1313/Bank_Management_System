@@ -2,7 +2,7 @@
 This code is written by :
 
 1. 03401172020 - Mehak Aggarwal
-2. 05101172020 - Princy 
+2. 05101172020 - Princy Singhal
 
 """
 
