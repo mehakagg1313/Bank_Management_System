@@ -1,9 +1,8 @@
 """
 This code is written by :
 
-1. 19BCE237 - Sakshi Sanghavi
-2. 19BCE238 - Harshil Sanghvi
-3. 19BCE245 - Aayush Shah
+1. 03401172020 - Mehak Aggarwal
+2. 05101172020 - Princy 
 
 """
 
@@ -271,7 +270,7 @@ class welcomeScreen:
         window.minsize(120, 1)
         window.maxsize(1370, 749)
         window.resizable(0, 0)
-        window.title("Welcome to NIRMA BANK")
+        window.title("Welcome to KEY BANK")
         p1 = PhotoImage(file='./images/bank1.png')
         window.iconphoto(True, p1)
         window.configure(background="#023047")
