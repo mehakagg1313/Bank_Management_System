@@ -1,11 +1,10 @@
 # Banking Management System
 Project in python with use of Tkinter GUI toolkit
-
+[
 ## Packages required
 1. Tkinter - Tkinter is the standard GUI library for Python.
 2. OS - The OS module in Python provides functions for interacting with the operating system.
 3. datetime - Datetime module supplies classes to work with date and time.
-
 ## Installation
 ###### Tkinter
 ```
@@ -21,7 +20,6 @@ Datetime module comes build into Python, so there is no need to install it exter
  We just need to install Python from www.python.org, and it comes along with Python.
 We do not need to install it separately.
 ```
-
 ## Usage
 ```
 import os
@@ -29,7 +27,6 @@ from datetime import date
 import tkinter as tk 
 from tkinter import *
 ```
-
 ## Execution flow (How to run the program?)
 ###### Option 1
 ```
@@ -50,7 +47,7 @@ from tkinter import *
 7. Type "python mainProject.py" on command line (You must have python pre- installed in your system).
 8. Now you are ready to interact with our python-based GUI program.
 ```
-
+]
 ## Features of program
 This is a GUI-based program. Once started running, it will prompt users to ask whose role they want to play. According to the selection, the program will ask for credentials. Once the credentials are matched, the program will unlock the respective functions
 ```
