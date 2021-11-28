@@ -1,6 +1,6 @@
 # Banking Management System
 Project in python with use of Tkinter GUI toolkit
-[
+[//]
 ## Packages required
 1. Tkinter - Tkinter is the standard GUI library for Python.
 2. OS - The OS module in Python provides functions for interacting with the operating system.
@@ -47,7 +47,8 @@ from tkinter import *
 7. Type "python mainProject.py" on command line (You must have python pre- installed in your system).
 8. Now you are ready to interact with our python-based GUI program.
 ```
-]
+[//]
+
 ## Features of program
 This is a GUI-based program. Once started running, it will prompt users to ask whose role they want to play. According to the selection, the program will ask for credentials. Once the credentials are matched, the program will unlock the respective functions
 ```
